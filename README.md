@@ -1,0 +1,2 @@
+# prognozi
+za futbolni prognozi
